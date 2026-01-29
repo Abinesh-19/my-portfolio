@@ -1,3 +1,31 @@
+# Abinesh G – Frontend Developer Portfolio
+
+A modern, responsive portfolio built with **React.js**, **Tailwind CSS**, and **Framer Motion**. Includes dark/light mode, smooth scroll, page loader, and mobile hamburger menu.
+
+## Quick Start
+
+```bash
+npm install
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000). Production build: `npm run build`.
+
+## Structure
+
+- `src/components/` – Navbar, Hero, About, Skills, Projects, Experience, Contact, Footer, ScrollToTop, PageLoader
+- `src/pages/` – Home
+- `src/contexts/` – ThemeContext (dark/light)
+- `src/assets/` – Static assets
+
+## Customization
+
+- **Resume**: Place `resume.pdf` in `public/` and the "Download Resume" button will work.
+- **Social links**: Update GitHub and LinkedIn URLs in `Contact.jsx`.
+- **Project GitHub**: Replace `githubUrl: '#'` in `Projects.jsx` with your repo links.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
