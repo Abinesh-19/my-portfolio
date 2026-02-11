@@ -17,7 +17,7 @@ const Contact = () => {
       setLoading(false);
       setSubmitted(true);
       setForm({ email: "", message: "" });
-    }, 600);
+    }, 300);
   };
 
   return (
