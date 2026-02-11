@@ -98,7 +98,7 @@ const Contact = () => {
 
         <div className="flex justify-center gap-6 mt-10">
           <a
-            href="https://github.com"
+            href="https://github.com/Abinesh-19"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-xl bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-200 hover:bg-primary-500 hover:text-white dark:hover:bg-primary-500 transition-colors"
@@ -113,7 +113,7 @@ const Contact = () => {
             </svg>
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/abinesh-g-45161b367"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-xl bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-200 hover:bg-[#0A66C2] hover:text-white transition-colors"
